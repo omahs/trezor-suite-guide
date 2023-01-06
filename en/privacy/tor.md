@@ -10,7 +10,7 @@ Once connected, a green tick will appear. All network traffic from Suite will no
 
 ### What is Tor?
 
-Tor is an acronym for the The Onion Router, as it routes your internet traffic through multiple points over the world, creating layers of doubt as to the original source of the traffic. This masks your IP address and allows you to use Suite more privately.
+Tor is an acronym for The Onion Router, as it routes your internet traffic through multiple points over the world, creating layers of doubt as to the original source of the traffic. This masks your IP address and allows you to use Suite more privately.
 
 Tor is most famous for its privacy browser but the Tor network can be used by all kinds of applications, including Trezor Suite.
 
